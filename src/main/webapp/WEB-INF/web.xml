@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>Servlet-JSP</display-name>
+  <!-- <servlet>
+  	<servlet-name>cs</servlet-name>
+  	<servlet-class>web/InscriptionServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>cs</servlet-name>
+  	<url-pattern>/inscription.php</url-pattern>
+  </servlet-mapping> -->
+  
+  <!-- <servlet>
+    <servlet-name>rt</servlet-name>
+  <servlet-class>web/MonServlet</servlet-class>
+  <servlet-mapping>
+  	<servlet-name>rt</servlet-name>
+  	<url-pattern>/acceuil.php</url-pattern>
+  </servlet-mapping> -->
+  
+  <!-- <servlet>
+  <servlet-name>tr</servlet-name>
+  <servlet-class>web/Monservlet2</servlet-class>
+  <sevlet-mapping>
+  <servlet-name>rt</servlet-name>
+  <url-pattern>/Login.php</url-pattern>
+  </servlet-mapping>
+   -->
+
+</web-app>
